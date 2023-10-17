@@ -26,25 +26,25 @@ Acceso mediante credenciales de Usuario y Contraseña
 ![IMG - LOGIN de la Aplicación](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/login.png?raw=true "Login")
 
 Pantalla de bienvenida con las funcionalidades (vista de administrador)
-![IMG - INICIO de la Aplicación](/img/inicio.png?raw=true "Inicio")
+![IMG - INICIO de la Aplicación](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/inicio.png?raw=true "Inicio")
 
 Tablero de avisos pendientes para los empleados. Cada tarjeta es un trabajo pendiente con su información correspondiente.
-![IMG - Avisos Pendientes para Empleados](/img/avisos.png?raw=true "Avisos Pendientes")
+![IMG - Avisos Pendientes para Empleados](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/avisos.png?raw=true "Avisos Pendientes")
 
 Panel de administración para crear, editar o eliminar avisos para los técnicos. Se pueden filtrar por su estado o la localización del trabajo. También se pueden consultar los documentos relativos a cada trabajo.
-![IMG - Administración de Avisos](/img/administracion_avisos.png?raw=true "Admin Avisos")
+![IMG - Administración de Avisos](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/administracion_avisos.png?raw=true "Admin Avisos")
 
 Formulario de alta de clientes en la aplicación.
-![IMG - Registro de clientes](/img/alta_cliente.png?raw=true "Registro Clientes")
+![IMG - Registro de clientes](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/alta_cliente.png?raw=true "Registro Clientes")
 
 Panel de gestión de técnicos/empleados en el que se puede consultar información relevante a ellos, dar de alta uno nuevo, o, inhabilitar usuarios.
-![IMG - Administración de Técnicos](/img/administracion_tecnicos.png?raw=true "Admin Técnicos")
+![IMG - Administración de Técnicos](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/administracion_tecnicos.png?raw=true "Admin Técnicos")
 
 Los documentos de la empresa se guardan en la nube y pueden ser visualizados y descargados desde cualquier dispositivo que haya iniciado sesión.
-![IMG - Documentos en la nube](/img/documentos_cloud.png?raw=true "Nube de Documentos")
+![IMG - Documentos en la nube](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/documentos_cloud.png?raw=true "Nube de Documentos")
 
 Se dispone de métricas y puntos clave sobre la situación del negocio para la toma de decisiones informada.
-![IMG - Métricas del Negocio](/img/metricas.png?raw=true "Métricas")
+![IMG - Métricas del Negocio](https://github.com/25-mario/WEB-APP-de-Gestion-Empresarial/blob/main/img/metricas.png?raw=true "Métricas")
 
 ## Futuras Implementaciones ⭐
 
