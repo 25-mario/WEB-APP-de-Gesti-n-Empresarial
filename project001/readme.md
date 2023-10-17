@@ -6,12 +6,12 @@
 🔐 Al elaborar desde cero esta aplicación pude poner en práctica mis conocimientos en seguridad informática para adecuarme a los estándares y cumplimientos necesarios.
 
 
-## Autor
+## Autor 👤
 
 - Mario del Olmo (https://www.linkedin.com/in/mariodelolmo/)
 
 
-## Funcionalidades
+## Funcionalidades ⚙️
 
 - 🧑‍🏭 Gestión de flujos de trabajo de los empleados.
 - 💲 Facturación y seguimiento de pagos.
@@ -19,7 +19,7 @@
 - 📊 Reporte de métricas y análisis de datos.
 
 
-## Imágenes para Demo
+## Imágenes para Demo 📸
 
 
 Acceso mediante credenciales de Usuario y Contraseña
@@ -46,16 +46,50 @@ Los documentos de la empresa se guardan en la nube y pueden ser visualizados y d
 Se dispone de métricas y puntos clave sobre la situación del negocio para la toma de decisiones informada.
 ![IMG - Métricas del Negocio](/project001/img/metricas.png?raw=true "Métricas")
 
-## Stack Tecnológico
+## Futuras Implementaciones ⭐
+
+- Portal de acceso para clientes de la empresa donde dar avisos y solicitar los servicios de la empresa.
+
+- Sistema automático para reservar y organizar trabajos.
+
+- Implementación de Inteligencia Artificial para el procesamiento de métricas y elaboración de reportes avanzados.
+
+- Pasarela de pago por tarjeta de crédito o transferencia bancaria para clientes.
+
+- Aplicación para iOS.
+
+
+## Stack Tecnológico 💻
 
 **Backend:** Python, PHP, MySQL
 
 **Frontend:** HTML5, JS, PHP
 
 
-## Casos de Uso
+## Casos de Uso 🏢
 
-Este proyecto es utilizado por las siguientes empresas:
+Este proyecto es utilizado por X empresa(s) del sector de la automoción para sus operaciones.
 
-- Asistencia Tecnica Maquinaria de Automocion S.L.
+
+## Quiero usar esta aplicación 👋
+
+Si deseas conocer más sobre la aplicación para implementarla en tu negocio, escríbeme a m.olmorincon@outlook.com y estaré encantado de hablar contigo.
+
+
+## Discalimer ⚠️
+
+Licencia de Uso Restringido - [2023] Mario del Olmo
+
+Este software y sus archivos de documentación asociados (el "Software") están protegidos por derechos de autor y se otorgan bajo las siguientes condiciones:
+
+#1 - No está permitido copiar, modificar, fusionar, publicar, distribuir, sublicenciar o vender copias del Software sin autorización expresa por escrito de Mario del Olmo.
+
+#2 - El uso de este Software está restringido y solo se permite con autorización expresa por escrito de Mario del Olmo.
+
+#3 - Este Software se proporciona "TAL CUAL", sin garantía de ningún tipo, ya sea expresa o implícita, incluyendo, pero no limitado a, las garantías de comerciabilidad, idoneidad para un propósito particular y no infracción.
+
+#4 En ningún caso Mario del Olmo será responsable por cualquier reclamación, daños u otra responsabilidad, ya sea en una acción de contrato, agravio o cualquier otra forma, derivada de, o en conexión con el Software o su uso.
+
+Todas las solicitudes de autorización deben dirigirse a m.olmorincon@outlook.com.
+
 
