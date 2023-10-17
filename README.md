@@ -23,7 +23,7 @@
 
 
 Acceso mediante credenciales de Usuario y Contraseña
-![IMG - LOGIN de la Aplicación](/img/login.png?raw=true "Login")
+![IMG - LOGIN de la Aplicación](img/login.png?raw=true "Login")
 
 Pantalla de bienvenida con las funcionalidades (vista de administrador)
 ![IMG - INICIO de la Aplicación](/img/inicio.png?raw=true "Inicio")
